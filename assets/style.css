@@ -1,7 +1,6 @@
 body {
     background-image: url(../assets/imgs/bottles.jpg);
     background-size: 100%;
-    background-repeat: no-repeat;
 }
 
 #content {
@@ -9,4 +8,8 @@ body {
     display: block;
     text-align: center;
     list-style-type: none;
+}
+
+.hide {
+    display: none;
 }
